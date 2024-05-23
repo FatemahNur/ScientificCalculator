@@ -21,3 +21,4 @@ This project is a simple scientific calculator built using Java Swing. It provid
     java ScientificCalculator
 #Screenshot of output
     
+![](images/output%20sc.png)
