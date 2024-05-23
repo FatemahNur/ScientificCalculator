@@ -19,5 +19,5 @@ This project is a simple scientific calculator built using Java Swing. It provid
 3. Run the compiled Java program:
     ```bash
     java ScientificCalculator
-   
+#Screenshot of output
     
